@@ -4,7 +4,7 @@
 
 Hi my names Aron i aspire to be gameplay programmer working in industry
 
-<img src="images/demo.gif?raw=true"/>
+
 
 ### Installation
 
