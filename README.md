@@ -4,6 +4,7 @@
 
 Hi my names Aron i aspire to be gameplay programmer working in industry
 
+![Logo design](https://user-images.githubusercontent.com/72932494/122761640-f50e2780-d2f8-11eb-93be-9af824c5973a.png)
 
 
 ## Markdown
