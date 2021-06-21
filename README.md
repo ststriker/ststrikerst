@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hi my names Aron i aspire to be gameplay programmer working in industry
 
 <img src="images/demo.gif?raw=true"/>
 
